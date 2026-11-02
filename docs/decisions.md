@@ -1,3 +1,3 @@
 # Decision log
 
-- Variant filter: minimum read depth 5 (Hamad: fewer false calls).
+- Variant filter: minimum read depth 10 (Hamad: fewer false calls).
