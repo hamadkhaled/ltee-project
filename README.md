@@ -1,5 +1,7 @@
 # LTEE variant calling
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24596563.svg)](https://doi.org/10.5281/zenodo.24596563)
+
 How many mutations did *Escherichia coli* accumulate over 50,000 generations
 of the Long-Term Evolution Experiment (LTEE), and does the answer hold when the
 variant filter is made stricter? This project calls variants in three clones
